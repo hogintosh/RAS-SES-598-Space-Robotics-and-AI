@@ -6,4 +6,4 @@ This repository contains the implementation and analysis of **Optimal Control fo
 ## Report
 The complete report detailing the methodology, implementation, and results is available in the PDF file.
 
-📄 **[Click here to view the HW2 report](https://github.com/inbarajaldrin/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/cart_pole_optimal_control/Aldrin_RAS598_HW2.pdf)**
+📄 **[Click here to view model HW2 report example from previous year](https://github.com/inbarajaldrin/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/cart_pole_optimal_control/Aldrin_RAS598_HW2.pdf)**
