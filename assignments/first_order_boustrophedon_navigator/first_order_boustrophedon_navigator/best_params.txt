@@ -9,7 +9,7 @@ Best parameters: {'Kp_linear': 5.0014964543025275, 'Kd_linear': 0.34401346876701
 Best average cross-track error: 0.212
 
 
-My experiments:
+My experiments: Check PDF For Graphical Results
 
     Kp_linear: 5.0
     Kd_linear: 0.5
