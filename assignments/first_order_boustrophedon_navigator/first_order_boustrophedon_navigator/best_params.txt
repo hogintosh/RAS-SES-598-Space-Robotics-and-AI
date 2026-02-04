@@ -1,2 +1,19 @@
+Name: Sean Vellequette
+ASUID: 1222032539
+Due Date: Feb 3, 2026
+Email: svellequ@asu.edu 
+
+Given working parameters from professor
+
 Best parameters: {'Kp_linear': 5.0014964543025275, 'Kd_linear': 0.3440134687670172, 'Kp_angular': 9.299200927443698, 'Kd_angular': 0.10005046439984644}
 Best average cross-track error: 0.212
+
+
+My experiments:
+
+    Kp_linear: 5.0
+    Kd_linear: 0.5
+    Kp_angular: 5.0
+    Kd_angular: 0.2
+    spacing: 1.0
+    Final Average Cross Track = 0.311
